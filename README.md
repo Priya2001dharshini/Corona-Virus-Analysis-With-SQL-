@@ -1,11 +1,12 @@
 # Corona-Virus-Analysis-With-SQL:
 This project involves analyzing a COVID-19 dataset using SQL and data analysis skills. The task is to derive insights from the dataset containing information such as geographic location, dates, confirmed cases, deaths, and recoveries. Detailed tasks are outlined in a reference file with 16 questions for analysis.
 
-Overview:
+# Overview:
 The CORONA VIRUS pandemic has had a significant impact on public health and has created an urgent need for data-driven insights to understand the spread of the virus. As a data analyst, you have been tasked with analyzing a CORONA VIRUS dataset to derive meaningful insights and present your findings.
 
-Dataset:
+# Dataset:
 Description of each column in dataset:
+
 Province: Geographic subdivision within a country/region.
 
 Country/Region: Geographic entity where data is recorded.
